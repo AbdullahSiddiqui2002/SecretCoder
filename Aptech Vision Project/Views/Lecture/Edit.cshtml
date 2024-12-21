@@ -1,0 +1,44 @@
+﻿@model Aptech_Vision_Project.Models.Lecture
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div class="container-fluid pt-4 px-4">
+<h1>Edit</h1>
+
+<h4>Lecture</h4>
+<hr />
+    <div class="row g-4">
+        <div class="bg-secondary rounded h-100 p-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+                <div class="col-sm-12 col-xl-12 mb-3">
+            <div class="form-group">
+                        <label asp-for="Lecture1" class="control-label form-label">Lecture</label>
+                <input asp-for="Lecture1" class="form-control" required="true"/>
+                <span asp-validation-for="Lecture1" class="text-danger"></span>
+            </div>
+                </div>
+                    <div class="col-sm-12 col-xl-12 mb-3">
+            <div class="form-group">
+                        <label asp-for="Courseid" class="control-label form-label">Select Course Name</label>
+                <select asp-for="Courseid" class="form-control" asp-items="ViewBag.Courses"></select>
+                <span asp-validation-for="Courseid" class="text-danger"></span>
+            </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mt-4 mb-2">
+
+                    <div class="form-group">
+                        <input type="submit" value="Update" class="btn btn-outline-primary w-100" />
+                    </div>
+                </div>
+        </form>
+    </div>
+</div>
+
+    <div class="mt-3">
+        <a asp-action="Index" class="btn btn-outline-primary">Back to List</a>
+    </div>
+</div>

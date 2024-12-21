@@ -1,0 +1,1217 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Aptech Vision Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Aptech Vision Project.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\admin.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\240503120559-241403011435-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\240503120559-241403011435-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\241303121307-pexels-mikebirdy-1335077.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\241303121307-pexels-mikebirdy-1335077.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\241403011435-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\241403011435-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\241503011528-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\241503011528-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\241603011606-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\241603011606-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\241616121601-hqdefault (1).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\241616121601-hqdefault (1).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\242316122348-hqdefault (2).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\242316122348-hqdefault (2).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\242403012441-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\242403012441-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\243001123043-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\243001123043-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\243207083248-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\243207083248-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\243403013413-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\243403013413-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\243603013604-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\243603013604-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\243703013727-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\243703013727-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\244103014141-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\244103014141-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\244619064647-hqdefault (2).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\244619064647-hqdefault (2).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\244716104729-hqdefault (1).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\244716104729-hqdefault (1).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\244903014920-hqdefault.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\244903014920-hqdefault.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\courses\\245416105439-hqdefault (2).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\245416105439-hqdefault (2).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\20240802002300-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\20240802002300-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\20240802002456-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\20240802002456-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\20240802002804-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\20240802002804-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\241616121636-channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\241616121636-channels4_profile.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\241701121700-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\241701121700-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\242001122000-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\242001122000-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\242501122540-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\242501122540-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\242901112909-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\242901112909-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\243301123354-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\243301123354-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\243602113600-mypic.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\243602113600-mypic.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\243901123935-download.jfif",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\243901123935-download.jfif"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\244016104030-channels4_profile.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\244016104030-channels4_profile.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\244201114213-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\244201114213-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\244201124200-download.jfif",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\244201124200-download.jfif"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\245216105218-channels4_profile (1).jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\245216105218-channels4_profile (1).jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\instructor\\245302105342-unnamed.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\instructor\\245302105342-unnamed.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\img\\user.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Website\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\css\\style.css",
+      "PackagePath": "staticwebassets\\Website\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\about.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\banner-2.png",
+      "PackagePath": "staticwebassets\\Website\\img\\banner-2.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\banner-3.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat1.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat1.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat2.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat2.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat3.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat3.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat4.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat4.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat5.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat5.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat6.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat6.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat7.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat7.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\cat8.png",
+      "PackagePath": "staticwebassets\\Website\\img\\cat8.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-10.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-10.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-11.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-11.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-12.png",
+      "PackagePath": "staticwebassets\\Website\\img\\course-12.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-3.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-4.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-5.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-5.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-6.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-6.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-7.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-7.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-8.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-8.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\course-9.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\course-9.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\icon.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\icon1.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon1.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\icon2.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon2.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\icon3.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon3.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\icon4.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon4.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\instructor-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\instructor-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\instructor-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\instructor-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\login.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\ready.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\ready.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\signup.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\signup.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\team-1.png",
+      "PackagePath": "staticwebassets\\Website\\img\\team-1.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\team-2.png",
+      "PackagePath": "staticwebassets\\Website\\img\\team-2.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\js\\main.js",
+      "PackagePath": "staticwebassets\\Website\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Website\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Aptech Vision Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Aptech Vision Project.props",
+      "PackagePath": "build\\Aptech Vision Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Aptech Vision Project.props",
+      "PackagePath": "buildMultiTargeting\\Aptech Vision Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Aptech Vision Project.props",
+      "PackagePath": "buildTransitive\\Aptech Vision Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

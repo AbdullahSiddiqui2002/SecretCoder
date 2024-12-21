@@ -1,0 +1,160 @@
+﻿@model Aptech_Vision_Project.Models.Course
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div class="container-fluid pt-4 px-4">
+<h1>Edit</h1>
+
+<h4>Course</h4>
+<hr />
+    <div class="row g-4">
+        <div class="bg-secondary rounded h-100 p-4">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <label asp-for="Coursename" class="control-label form-label">Course Name</label>
+                        <input asp-for="Coursename" class="form-control" required="true" />
+                        <span asp-validation-for="Coursename" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Courseinstructor" class="control-label form-label">Select Instructor</label>
+                                <select asp-for="Courseinstructor" class="form-control" asp-items="ViewBag.Instructor"></select>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Courselevelid" class="control-label form-label">Select Course Level</label>
+                                <select asp-for="Courselevelid" class="form-control" asp-items="ViewBag.Courselevel"></select>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Coursefee" class="control-label form-label">Course Fee</label>
+                                <input asp-for="Coursefee" class="form-control" required="true" />
+                                <span asp-validation-for="Coursefee" class="text-danger"></span>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Language" class="control-label form-label">Course Language</label>
+                                <input asp-for="Language" class="form-control" required="true" />
+                                <span asp-validation-for="Language" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Lectures" class="control-label form-label">No. of Lectures</label>
+                                <input asp-for="Lectures" class="form-control" required="true" />
+                                <span asp-validation-for="Lectures" class="text-danger"></span>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Courseduration" class="control-label form-label">Course Duration</label>
+                                <input asp-for="Courseduration" class="form-control" required="true" />
+                                <span asp-validation-for="Courseduration" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Courserating" class="control-label form-label">Course Rating</label>
+                                <input asp-for="Courserating" class="form-control" required="true" />
+                                <span asp-validation-for="Courserating" class="text-danger"></span>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Studentsenrolled" class="control-label form-label">Students Enrolled</label>
+                                <input asp-for="Studentsenrolled" class="form-control" required="true" />
+                                <span asp-validation-for="Studentsenrolled" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Certificate" class="control-label form-label">Certificate (Yes or No)</label>
+                                <input asp-for="Certificate" class="form-control" required="true" />
+                                <span asp-validation-for="Certificate" class="text-danger"></span>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Deadline" class="control-label form-label">Deadline (in Months)</label>
+                                <input asp-for="Deadline" class="form-control" required="true" />
+                                <span asp-validation-for="Deadline" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+
+                    <div class="form-group">
+                        <label asp-for="Courseshortdescription" class="control-label form-label">Course Short Description</label>
+                        <textarea asp-for="Courseshortdescription" rows="3" class="form-control" required="true"></textarea>
+                        <span asp-validation-for="Courseshortdescription" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <label asp-for="Courselongdescription" class="control-label form-label">Course Long Description</label>
+                        <textarea asp-for="Courselongdescription" rows="6" class="form-control" required="true"></textarea>
+                        <span asp-validation-for="Courselongdescription" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <input name="oldImage" type="hidden" value="@Model.Courseimage" />
+                        <label asp-for="Courseimage" class="control-label form-label">Course Image</label>
+                        <input asp-for="Courseimage" type="file" name="file" class="form-control"/>
+                        <span asp-validation-for="Courseimage" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mt-4 mb-2">
+
+                    <div class="form-group">
+                        <input type="submit" value="Update" class="btn btn-outline-primary w-100" />
+                    </div>
+                </div>
+            </form>
+    </div>
+</div>
+
+    <div class="mt-3">
+        <a asp-action="Index" class="btn btn-outline-primary">Back to List</a>
+    </div>
+</div>
+

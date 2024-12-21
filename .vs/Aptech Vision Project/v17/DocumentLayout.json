@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aptech Vision Project 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\wwwroot\\admin\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\wwwroot\\admin\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\wwwroot\\website\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\wwwroot\\website\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_2C1A2GI_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.user.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\instructor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\instructor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\models\\websiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\models\\websiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\models\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\lecture\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\lecture\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\lecture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\lecture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.Lecture.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\lecture\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\lecture\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|e:\\aptech vision project 2024\\aptech vision project\\views\\lecture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E4CD60-8B80-4752-8A1F-6AF2C29EC254}|Aptech Vision Project\\Aptech Vision Project.csproj|solutionrelative:aptech vision project\\views\\lecture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:36:29.881Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coursedetails.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\Coursedetails.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Home\\Coursedetails.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\Coursedetails.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Home\\Coursedetails.cshtml",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAPUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:50:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\style.css",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\wwwroot\\Admin\\css\\style.css",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\style.css",
+              "RelativeToolTip": "Aptech Vision Project\\wwwroot\\Admin\\css\\style.css",
+              "ViewState": "AgIAACQBAAAAAAAAAAAswDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T16:17:39.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectureController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\LectureController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\LectureController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\LectureController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\LectureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:14:46.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\wwwroot\\Admin\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Admin\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Aptech Vision Project\\wwwroot\\Admin\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcaQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T16:22:43.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:32:49.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T17:49:47.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\Courses.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Home\\Courses.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\Courses.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Home\\Courses.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:19:11.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\css\\style.css",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\wwwroot\\Website\\css\\style.css",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\wwwroot\\Website\\css\\style.css",
+              "RelativeToolTip": "Aptech Vision Project\\wwwroot\\Website\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T12:48:39.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:00:32.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:45:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\InstructorController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:46:35.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:32:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\SubscribeController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\SubscribeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:08:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:32:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Program.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Program.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Program.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:12:56.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.user.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_2C1A2GI_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.user.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_2C1A2GI_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.user.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-17T16:28:44.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Models\\Instructor.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\Instructor.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:42:15.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Instructor\\Edit.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Edit.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Instructor\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T09:40:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T16:20:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Instructor\\Details.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Details.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Instructor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T16:20:26.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:53:41.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Instructor\\Delete.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Delete.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Instructor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T16:20:24.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:58:05.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Course\\Create.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T19:32:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Instructor\\Create.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Instructor\\Create.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Instructor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T10:10:10.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:58:23.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Course\\Details.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:58:28.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Course\\Index.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:54:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Models\\AdminDashboardViewModel.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Models\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:32:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebsiteViewModel.cs",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\WebsiteViewModel.cs",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Models\\WebsiteViewModel.cs",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Models\\WebsiteViewModel.cs",
+              "RelativeToolTip": "Aptech Vision Project\\Models\\WebsiteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:34:45.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:53:46.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:53:28.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Lecture\\Delete.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Delete.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Lecture\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:15:26.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Lecture.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.Lecture.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Aptech_Vision_Project/True/SqlTable/dbo.Lecture.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T16:15:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Lecture\\Create.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Create.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Lecture\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:00:33.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Lecture\\Edit.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Edit.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Lecture\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:58:13.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aptech Vision Project\\Views\\Lecture\\Index.cshtml",
+              "ToolTip": "E:\\Aptech Vision Project 2024\\Aptech Vision Project\\Views\\Lecture\\Index.cshtml",
+              "RelativeToolTip": "Aptech Vision Project\\Views\\Lecture\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAEBVwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:54:47.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

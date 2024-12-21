@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Aptech_Vision_Project.Models.Lecture>
+
+@{
+    ViewData["Title"] = "Enroll";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+
+<h1>Enroll</h1>
+
+@* <p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Lecture
+            </th>
+            <th>
+                Course Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.Raw(item.Lecture1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.Coursename)
+                </td>
+            <td>
+                @* <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                <a asp-action="Enrolled" asp-route-id="@item.Id">Enroll Now</a>
+                @* <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

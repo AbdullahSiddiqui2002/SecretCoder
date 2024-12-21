@@ -1,0 +1,105 @@
+﻿@model Aptech_Vision_Project.Models.Instructor
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div class="container-fluid pt-4 px-4">
+    <h1>Create</h1>
+
+    <h4>Instructor</h4>
+    <hr />
+
+    <div class="row g-4">
+        <div class="bg-secondary rounded h-100 p-4">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Instructorname" class="control-label form-label">Instructor Name</label>
+                                <input asp-for="Instructorname" class="form-control" required="true" />
+                                <span asp-validation-for="Instructorname" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Instructorrole" class="control-label form-label">Instructor Role</label>
+                                <input asp-for="Instructorrole" class="form-control" required="true" />
+                                <span asp-validation-for="Instructorrole" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <label asp-for="Instructoremail" class="control-label form-label">Instructor Email</label>
+                        <input asp-for="Instructoremail" class="form-control" required="true" />
+                        <span asp-validation-for="Instructoremail" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Instructorrating" class="control-label form-label">Instructor Rating</label>
+                                <input asp-for="Instructorrating" class="form-control" required="true" />
+                                <span asp-validation-for="Instructorrating" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Instructorreviews" class="control-label form-label">Instructor Reviews</label>
+                                <input asp-for="Instructorreviews" class="form-control" required="true" />
+                                <span asp-validation-for="Instructorreviews" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Enrolledstudents" class="control-label form-label"></label>
+                                <input asp-for="Enrolledstudents" class="form-control" required="true" />
+                                <span asp-validation-for="Enrolledstudents" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-xl-6">
+                            <div class="form-group">
+                                <label asp-for="Coursesteach" class="control-label form-label"></label>
+                                <input asp-for="Coursesteach" class="form-control" required="true" />
+                                <span asp-validation-for="Coursesteach" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <label asp-for="Instructordescription" class="control-label form-label"></label>
+                        <textarea asp-for="Instructordescription" rows="4" class="form-control" required="true"></textarea>
+                        <span asp-validation-for="Instructordescription" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+                <div class="col-sm-12 col-xl-12 mb-3">
+                    <div class="form-group">
+                        <label asp-for="Instructorimage" class="control-label form-label"></label>
+                        <input asp-for="Instructorimage" type="file" name="file" class="form-control" required="true" />
+                        <span asp-validation-for="Instructorimage" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-xl-12 mt-4 mb-2">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-outline-primary w-100"/>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="mt-3">
+        <a class="btn btn-outline-primary" asp-action="Index">Back to List</a>
+    </div>
+</div>

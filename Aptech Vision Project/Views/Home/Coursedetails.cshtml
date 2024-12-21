@@ -1,0 +1,308 @@
+﻿@model Aptech_Vision_Project.Models.WebsiteViewModel
+
+@{
+    var course = Model.Courses.FirstOrDefault(); // Get the first (and only) course
+}
+<style>
+    .tabs ul li {
+        list-style-type: none;
+    }
+
+        .tabs ul li a {
+            font-size: 25px;
+            color: #4e4e4e !important;
+            font-weight: 500;
+        }
+
+            .tabs ul li a.active {
+                color: #f69050 !important;
+            }
+
+            .tabs ul li a:hover {
+                color: #f69050 !important;
+            }
+
+    #more {
+        display: none;
+    }
+
+    button {
+        border: none;
+        color: #f69050;
+    }
+</style>
+<!-- Header Start -->
+<div class="container-fluid bg-primary py-5 mb-5 page-header">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 text-center">
+                <h1 class="display-3 text-white animated slideInDown">Course</h1>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb justify-content-center">
+                        <li class="breadcrumb-item"><a class="text-white" asp-action="Index" asp-controller="Home">Home</a></li>
+                        <li class="breadcrumb-item"><a class="text-white" asp-action="Courses" asp-controller="Home">Course</a></li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">@course.Coursename</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Header End -->
+<!-- Course Detail Start -->
+<div class="container-xxl py-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 wow fadeInUp">
+
+                <div class="container">
+                    <div class="row g-5 justify-content-center">
+
+                        <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.3s">
+                            <h2>@course.Coursename</h2>
+                            <p>
+                                @course.Courseshortdescription
+
+                            </p>
+                            <div class="d-flex">
+                                <small>
+                                    <i class="fa fa-star text-warning"></i>
+                                    @course.Courserating
+                                </small>
+                                <small style="margin-left: 15px;">
+                                    <i class="fa fa-user-graduate"></i> @course.Studentsenrolled L+
+                                    Learners
+                                </small>
+                                <small style="margin-left: 15px;"><i class="fa fa-user"></i> @course.Courselevel.Courselevel1</small>
+                                <small style="margin-left: 15px;"><i class="fa fa-clock me-2"></i> @course.Courseduration Hrs</small>
+
+                            </div>
+                            <div class="image-div text-left mt-3">
+                                <img src="@course.Courseimage" alt=""
+                                     style="height: 40px; width: 40px; border-radius: 50%;">
+                                <span style="margin-left: 10px;"><b>Instructor Name</b> - @course.CourseinstructorNavigation.Instructorname</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="container-fluid wow fadeInUp mt-5 tabs">
+
+
+                    <!-- Tab panes -->
+                    <div class="tab-content mt-4">
+
+                        <div class="tab-pane container active" id="Overview">
+                            <h2>About this Course</h2>
+                            <p>@course.Courselongdescription</p>
+
+
+
+                            <h2 class="mt-4">
+                                Skills you'll gain
+                            </h2>
+
+                            <span class="badge rounded-pill text-white bg-primary px-4 py-2 m-2"
+                                  style="font-size: 15px; font-weight: normal;">Structure pages with HTML</span>
+
+                            <span class="badge rounded-pill text-white bg-primary px-4 py-2 m-2"
+                                  style="font-size: 15px; font-weight: normal;">Present data with tables</span>
+
+                            <span class="badge rounded-pill text-white bg-primary px-4 py-2 m-2"
+                                  style="font-size: 15px; font-weight: normal;">Write cleaner HTML</span>
+
+
+                        </div>
+
+                        <div class="container" id="Curriculum">
+
+                            <h2 class="mt-4">
+                                Syllabus
+                            </h2>
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                            Elements and Structure
+
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li><i class="fa fa-video text-danger"></i> Introduction to HTML</li>
+                                                <li><i class="fa fa-video text-danger"></i> HTMl Document Standards</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                            Tables
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li><i class="fa fa-video text-danger"></i> HTML Tables</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                            Forms
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li><i class="fa fa-video text-danger"></i> HTML Forms</li>
+                                                <li><i class="fa fa-video text-danger"></i> Form Validation</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                            Semantic HTML
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li><i class="fa fa-video text-danger"></i> Semantic HTML</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="container" id="Instructor">
+                            <h2 class="mt-4">About the Instructor</h2>
+                            <div class="image-div text-left mt-4">
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-6">
+                                        <img src="@course.CourseinstructorNavigation.Instructorimage" alt=""
+                                             style="height: 150px; width: 150px; border-radius: 50%;">
+                                    </div>
+                                    <div class="col-lg-9 col-md-6 mt-2">
+                                        <h5>@course.CourseinstructorNavigation.Instructorname</h5>
+                                        <p>@course.CourseinstructorNavigation.Instructorrole</p>
+                                        <div class="row">
+                                            <div class="col-6">
+                                                <p>
+                                                    <i class="fa fa-star"></i>
+                                                    @course.CourseinstructorNavigation.Instructorrating Instructor rating
+                                                </p>
+                                            </div>
+                                            <div class="col-6">
+                                                <p>
+                                                    <i class="fa fa-check
+
+
+                                                     "></i>
+                                                    @course.CourseinstructorNavigation.Instructorreviews reviews
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-6">
+                                                <p>
+                                                    <i class="fa fa-user"></i>
+                                                    @course.CourseinstructorNavigation.Enrolledstudents Students
+                                                </p>
+                                            </div>
+                                            <div class="col-6">
+                                                <p>
+                                                    <i class="fa fa-video"></i>
+                                                    @course.CourseinstructorNavigation.Coursesteach courses
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="des mt-4 mb-5">
+                                    @course.CourseinstructorNavigation.Instructordescription
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-6 shadow wow fadeInUp" style="height: 100% !important;" data-wow-delay="0.3s">
+
+                <div class="image text-center">
+                    <img class="img-fluid mt-2" src="@course.Courseimage" alt="" height="200" width="500">
+                </div>
+
+                @* <h4 class="mt-2 p-2">Free <small></small></h4> *@
+
+                <h4 class="mt-2 p-2">
+                    Rs.
+                    <small>@course.Coursefee</small>
+                </h4>
+
+
+                <div class="buttons">
+
+                    <a asp-action="Login" asp-controller="Auth"
+                       class="text-decoration-none text-white btn p-3 w-100 mb-2">ENROLL NOW</a>
+
+
+
+                </div>
+                <div class="list mt-2">
+                    <div class="list1 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-clock"></i> Duration</p>
+                        <p>@course.Courseduration Hrs</p>
+                    </div>
+                    <div class="list2 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-book"></i> Lectures</p>
+                        <p>@course.Lectures</p>
+                    </div>
+                    <div class="list3 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-bolt"></i> Enrolled</p>
+                        <p>@course.Studentsenrolled students</p>
+                    </div>
+                    <div class="list4 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-google-translate"></i> Language</p>
+                        <p>@course.Language</p>
+                    </div>
+                    <div class="list5 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-list"></i> Skill Level</p>
+                        <p>@course.Courselevel.Courselevel1</p>
+                    </div>
+                    <div class="list6 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-list"></i> Deadline</p>
+                        <p>@course.Deadline Months</p>
+                    </div>
+                    <div class="list7 d-flex justify-content-between pt-2 border-bottom">
+                        <p><i class="fa fa-certificate"></i> Certificate</p>
+                        <p>@course.Certificate</p>
+                    </div>
+                    <div class="button pt-4 text-center mb-4">
+                        <i class="fa fa-share"></i><a href=""> Share this Course</a>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- Course Detail End -->

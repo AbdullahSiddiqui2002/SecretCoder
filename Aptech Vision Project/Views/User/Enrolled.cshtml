@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Enrolled";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+@{
+    var msg = ViewBag.msg;
+}
+<h1>Enrolled</h1>
+@if (msg != null)
+{
+
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@msg</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}

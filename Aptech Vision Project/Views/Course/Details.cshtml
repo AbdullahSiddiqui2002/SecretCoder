@@ -1,0 +1,165 @@
+﻿@model Aptech_Vision_Project.Models.Course
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div class="pt-4 px-4">
+<h1>Details</h1>
+
+
+    <h4>Course</h4>
+    <hr />
+    <div class="row mt-3">
+        <div class="col-sm-12 col-xl-6">
+                <div class="text-center">
+                    <img src="@Html.DisplayFor(model => model.Courseimage)" style="height:100%; width:100%;">
+                </div>
+        </div>
+        <div class="col-sm-12 col-xl-6">
+                <dl class="row">
+                    <dt class="col-sm-2 col-xl-4">
+                        Course Name
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Coursename)
+                    </dd> 
+                    <dt class="col-sm-2 col-xl-4">
+                        Instructor Name
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorname)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Course Level
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Courselevel.Courselevel1)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Course Fee
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                       Rs. @Html.DisplayFor(model => model.Coursefee)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Language
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Language)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Lectures
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Lectures)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Duration
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Courseduration) Hours
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Rating
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Courserating)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Students Enrolled
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Studentsenrolled)
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Deadline
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Deadline) Months
+                    </dd>
+                    <dt class="col-sm-2 col-xl-4">
+                        Certificate
+                    </dt>
+                    <dd class="col-sm-10 col-xl-8">
+                        @Html.DisplayFor(model => model.Certificate)
+                    </dd>
+                </dl>
+        </div>
+    </div>
+    <dl class="row">
+        <dt class = "col-12">
+            Short Description
+        </dt>
+        <dd class = "col-12">
+            @Html.DisplayFor(model => model.Courseshortdescription)
+        </dd>
+        <dt class = "col-12 mt-2">
+            Long Description
+        </dt>
+        <dd class = "col-12">
+            @Html.DisplayFor(model => model.Courselongdescription)
+        </dd>       
+    </dl>
+    <hr />
+    <h4 class="text-center">About Instructor</h4>
+    <hr />
+    <dl class="row">
+        <div class="text-center mb-4">
+            <img src="@Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorimage)" style="height:120px; width:120px; border-radius:50%;">
+        </div>
+        <dt class="col-sm-2">
+            Instructor Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorname)
+        </dd>
+        <dt class="col-sm-2">
+            Instructor Role
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorrole)
+        </dd>
+        <dt class="col-sm-2">
+            Instructor Email
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructoremail)
+        </dd>
+        <dt class="col-sm-2">
+            Instructor Rating
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorrating)
+        </dd>
+        <dt class="col-sm-2">
+            Instructor Reviews
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructorreviews)
+        </dd>
+        <dt class="col-sm-2">
+            Enrolled Students
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Enrolledstudents)
+        </dd>
+        <dt class="col-sm-2">
+            Courses Teach
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Coursesteach)
+        </dd>
+        <dt class="col-sm-2">
+            Instructor Description
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CourseinstructorNavigation.Instructordescription)
+        </dd>
+    </dl>
+
+<div class="text-center mt-3">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-outline-primary">Edit</a> |
+    <a asp-action="Index" class="btn btn-outline-primary">Back to List</a>
+</div>
+</div>
